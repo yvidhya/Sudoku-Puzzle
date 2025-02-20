@@ -5,4 +5,5 @@ In this puzzle game, the user has to fill a 9×9 grid with digits such that each
 About the Sudoku game:
 It is one of the most popular puzzle games that we have been playing since our childhood. It’s a great brain game as it helps the player to improve their brain capacity.
 The project output looks something like this 
-![Screenshot 2025-02-20 220139](https://github.com/user-attachments/assets/0275e4f4-f1c5-44d2-9df6-dec0163379b2)
+
+![Screenshot 2025-02-20 220139](https://github.com/user-attachments/assets/77e2720f-cce1-4a9c-a6cf-677ad3ee3b00)
