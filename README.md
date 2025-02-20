@@ -4,3 +4,5 @@ Prerequisite: You need to install pygame in order to start the project. You need
 In this puzzle game, the user has to fill a 9×9 grid with digits such that each row, each column and each of the 3×3 subgrids that form the grid contains the digit from 1 to 9.
 About the Sudoku game:
 It is one of the most popular puzzle games that we have been playing since our childhood. It’s a great brain game as it helps the player to improve their brain capacity.
+The project output looks something like this 
+![Screenshot 2025-02-20 220139](https://github.com/user-attachments/assets/0275e4f4-f1c5-44d2-9df6-dec0163379b2)
